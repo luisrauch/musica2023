@@ -1,6 +1,24 @@
 header{
     background-color: white;
 }
+
+nav{
+
+    font-size: 30px;
+}
+
+nav li{
+    display: inline-flex;
+    margin-left: 30%;
+}
+
+nav li:hover{
+    font-size: 35px;
+    transition: 0.8s;
+}
+
+
+
 body{
     background-color: rgb(110, 245, 234);
 }
